@@ -22,3 +22,6 @@ This project analyzes YouTube trending video data to uncover patterns in youtube
 - Most common video categories
 - Optimal engagement rate
 
+## PowerBI link
+https://app.powerbi.com/view?r=eyJrIjoiNDQ1YjhkMTgtNjBmNi00NDA4LTk3MzQtYTEyYzQ4MjUxYWNmIiwidCI6ImY5YTMyM2UwLWI0NTMtNGEwNi05YmMxLTE1ZjllMmY5ZTRhZiJ9
+
